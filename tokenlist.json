@@ -23,7 +23,7 @@
       "address": "0x40b92fce37cefa03baf7603e7913c1d34dd1a4ec",
       "symbol": "YEA",
       "name": "YEA Coin",
-      "decimals": 6,
+      "decimals": 8,
       "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
       "tags": [
         "stablecoin"
@@ -33,8 +33,8 @@
       "chainId": 1,
       "address": "0x59e7b5db9be0bdd26fa048d39e01fee456ab674e",
       "symbol": "YFB2",
-      "name": "YFB2 Coin",
-      "decimals": 8,
+      "name": "Yearn Finance Bit2 Coin",
+      "decimals": 18,
       "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "tags": [
         "compound"
@@ -44,8 +44,8 @@
       "chainId": 1,
       "address": "0xf0a0f3a6fa6bed75345171a5ea18abcadf6453ba",
       "symbol": "YFBT",
-      "name": "YFBT Coin",
-      "decimals": 8,
+      "name": "Yearn Finance Bit Coin",
+      "decimals": 18,
       "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "tags": [
         "compound"
@@ -55,8 +55,8 @@
       "chainId": 1,
       "address": "0x47632da9227e322eda59f9e7691eacc6430ac87c",
       "symbol": "YFIB",
-      "name": "YFIB Coin",
-      "decimals": 8,
+      "name": "YFIBusiness.Finance Coin",
+      "decimals": 18,
       "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "tags": [
         "compound"
