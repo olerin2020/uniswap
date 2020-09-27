@@ -1,5 +1,5 @@
 {
-  "name": "Reduced token list",
+  "name": " token list",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
   "keywords": [
     "audited",
@@ -24,9 +24,9 @@
       "symbol": "YEA",
       "name": "YEA Coin",
       "decimals": 8,
-      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "logoURI": "https://etherscan.io/images/main/empty-token.png",
       "tags": [
-        "stablecoin"
+        "compound"
       ]
     },
     {
@@ -35,7 +35,7 @@
       "symbol": "YFB2",
       "name": "Yearn Finance Bit2 Coin",
       "decimals": 18,
-      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "logoURI": "https://etherscan.io/images/main/empty-token.png",
       "tags": [
         "compound"
       ]
@@ -46,7 +46,7 @@
       "symbol": "YFBT",
       "name": "Yearn Finance Bit Coin",
       "decimals": 18,
-      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "logoURI": "https://etherscan.io/token/images/yearnfinancebit_32.png",
       "tags": [
         "compound"
       ]
@@ -57,7 +57,7 @@
       "symbol": "YFIB",
       "name": "YFIBusiness.Finance Coin",
       "decimals": 18,
-      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "logoURI": "https://etherscan.io/token/images/yfib_32.png",
       "tags": [
         "compound"
       ]
@@ -65,7 +65,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
