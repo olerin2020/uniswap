@@ -31,6 +31,17 @@
     },
     {
       "chainId": 1,
+      "address": "0x62915998EB17e579245e9606cF80630a310ed067",
+      "symbol": "YFM",
+      "name": "Yearn Finance Management2 Coin",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/images/main/empty-token.png",
+      "tags": [
+        "compound"
+      ]
+    },
+    {
+      "chainId": 1,
       "address": "0x40b92fce37cefa03baf7603e7913c1d34dd1a4ec",
       "symbol": "YEA",
       "name": "YEA Coin",
