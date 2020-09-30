@@ -20,6 +20,17 @@
   "tokens": [
     {
       "chainId": 1,
+      "address": "0x4b34c0cbeef271f895d339c5f76322d71a60782b",
+      "symbol": "YeFiM",
+      "name": "Yearn Finance Management Coin",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/images/main/empty-token.png",
+      "tags": [
+        "compound"
+      ]
+    },
+    {
+      "chainId": 1,
       "address": "0x40b92fce37cefa03baf7603e7913c1d34dd1a4ec",
       "symbol": "YEA",
       "name": "YEA Coin",
@@ -65,7 +76,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
